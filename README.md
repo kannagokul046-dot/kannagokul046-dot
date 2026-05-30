@@ -4,14 +4,16 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f0ff,20:ff007f,40:8338ec,60:3a86ff,80:06d6a0,100:00f0ff&height=320&section=header&text=GOKUL%20K&fontSize=95&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=00f0ff&strokeWidth=2&desc=◈%20CYBER%20BUSINESS%20%26%20DATA%20ANALYTICS%20COMMAND%20CENTER%20◈&descAlignY=62&descColor=ffbe0b&descSize=18" />
 </p>
+
 <!-- RAINBOW ANIMATED GLOW WAVE DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </p>
+
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-    <!--            📐 LEFT PANEL: BIOMETRICS CARD (32%)             -->
+    <!--            📐 LEFT PANEL: BIOMETRICS CARD (33%)             -->
     <!-- ╚═══════════════════════════════════════════════════════════╝ -->
     <td width="33%" valign="top" align="center" style="border: 2px solid #1a233a; border-radius: 20px; background-color: #0d1117;">
       <br/>
@@ -31,7 +33,9 @@
       <p align="center">
         <b>📍 Madurai → Chennai / Bangalore / Hyderabad</b>
       </p>
+
       <hr size="1" color="#1a233a" />
+
       <!-- Bio / Info Grid -->
       <table border="0" cellpadding="4" cellspacing="0" width="100%" style="font-size: 13px;">
         <tr>
@@ -55,12 +59,16 @@
           <td>Microsoft Certified (SQL + PBI)</td>
         </tr>
       </table>
+
       <hr size="1" color="#1a233a" />
+
       <!-- Action-Oriented Quote -->
       <p align="center" style="font-style: italic; color: #ff007f;">
         "I don't just analyze data — I decode the story behind it to drive powerful business growth."
       </p>
+
       <hr size="1" color="#1a233a" />
+
       <!-- Interactive Connect Links -->
       <h4>🌐 CONNECT STATIONS</h4>
       <a href="https://gokul-analyst.netlify.app" target="_blank">
@@ -74,7 +82,9 @@
       <a href="mailto:kannagokul046@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-kannagokul046%40gmail.com-ffbe0b?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" width="100%" />
       </a>
+
       <hr size="1" color="#1a233a" />
+
       <!-- Cyber Equalizer Music Wave Widget -->
       <h4>🎧 NOW TUNED TO</h4>
       <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="25" />
@@ -82,8 +92,9 @@
         ⚡ Focus Mode Active · Optimizing SQL pipelines
       </p>
     </td>
+
     <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-    <!--            📐 RIGHT PANEL: ANALYTICS HUB (68%)              -->
+    <!--            📐 RIGHT PANEL: ANALYTICS HUB (67%)              -->
     <!-- ╚═══════════════════════════════════════════════════════════╝ -->
     <td width="67%" valign="top" style="border: 2px solid #1a233a; border-radius: 20px; background-color: #0d1117; padding-left: 20px;">
       
@@ -93,6 +104,7 @@
 <font color="#00f0ff">WHERE</font> name = <font color="#ffbe0b">'GOKUL_K'</font>
   <font color="#00f0ff">AND</font> mindset = <font color="#ff007f">'HYPER_GROWTH'</font>
   <font color="#00f0ff">AND</font> skills <font color="#00f0ff">IN</font> (<font color="#06d6a0">'SQL'</font>, <font color="#06d6a0">'Power_BI'</font>, <font color="#06d6a0">'Agile_BA'</font>);</pre>
+
       <h2>👋 Hi there, I'm <font color="#00f0ff">GOKUL K</font> 🚀</h2>
       
       <!-- Multi-Color Typing SVG Animation -->
@@ -101,13 +113,16 @@
           <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=2000&pause=600&color=00F0FF&vCenter=true&multiline=true&repeat=true&width=580&height=100&lines=🔥+BUSINESS+ANALYST+%7C+DATA+ANALYST+%7C+SQL+DEVELOPER;⚡+Transforming+Raw+Data+into+Powerful+Business+Decisions!;📊+SQL+%7C+Power+BI+%7C+Python+%7C+Advanced+Excel;💎+5+Real-World+Portfolio+Projects+—+DEPLOYED+LIVE;🎯+BRD+%7C+FRD+%7C+Agile+%7C+SDLC+%7C+Stakeholder+Management" alt="Typing SVG" />
         </a>
       </p>
+
       <!-- Dynamic Live Badges Command Center -->
       <p align="left">
         <img src="https://img.shields.io/badge/🎓_BBA-2024_GRADUATE-8338ec?style=for-the-badge&labelColor=0d0022&logo=mortarboard&logoColor=8338ec" />
         <img src="https://img.shields.io/badge/🚀_ROLE-BA_%2F_DA_FRESHER-ffbe0b?style=for-the-badge&labelColor=1a1000&logo=databricks&logoColor=ffbe0b" />
         <img src="https://komarev.com/ghpvc/?username=kannagokul046-dot&style=for-the-badge&color=3a86ff&label=👁+VIEWS&labelColor=001030" />
       </p>
+
       <hr size="1" color="#1a233a" />
+
       <!-- ╔═══════════════════════════════════════════════════════════╗ -->
       <!--                  🛠️ SKILLS MATRIX GRID                      -->
       <!-- ╚═══════════════════════════════════════════════════════════╝ -->
@@ -167,6 +182,7 @@
           </td>
         </tr>
       </table>
+
       <!-- Python / Growing Tools Row -->
       <table border="0" cellpadding="8" cellspacing="4" width="100%">
         <tr>
@@ -183,10 +199,13 @@
           </td>
         </tr>
       </table>
+
     </td>
   </tr>
 </table>
+
 <br/>
+
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!--             🚀 ULTRA PREMIUM PROJECT SHOWCASE              -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
@@ -195,7 +214,9 @@
   <p><i>Real datasets, real business challenges, deployed and functional.</i></p>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="70" />
 </div>
+
 <br/>
+
 <!-- 3D CARDS FOR PROJECTS -->
 <table border="0" cellpadding="10" cellspacing="10" width="100%">
   <!-- ROW 1 -->
@@ -281,14 +302,18 @@
     </td>
   </tr>
 </table>
+
 <br/>
+
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!--           📊 COMPETENCY METRICS & CAREER ROADMAP            -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 <div align="center">
   <h2>📈 COMPETENCY & CAREER CONTROL CENTER</h2>
 </div>
+
 <br/>
+
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <!-- COMPETENCY MATRICES -->
@@ -320,7 +345,9 @@
     </td>
   </tr>
 </table>
+
 <br/>
+
 <!-- ROADMAP PROGRESS BAR CHART -->
 <h3 align="center">📍 Career Mission Progress Status</h3>
 <div align="center">
@@ -334,7 +361,9 @@
 ☁️  Cloud Infrastructure (AWS/Azure)        ████████████░░░░░░░░  60% 🔄 Upskilling
 🤖 AI Copilot Tools for BA/DA              ████████░░░░░░░░░░░░  40% 🔄 Upskilling</pre>
 </div>
+
 <br/>
+
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!--           🌈 LIVE ANALYTICS COMMAND CENTER                  -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
@@ -342,6 +371,7 @@
   <h2>🌌 LIVE ANALYTICS COMMAND CENTER</h2>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="90" />
   <br/><br/>
+
   <!-- Stats Grid -->
   <table border="0" cellpadding="0" cellspacing="5">
     <tr>
@@ -362,7 +392,9 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannagokul046-dot&bg_color=0d1117&color=ffbe0b&line=ff007f&point=00ff88&area=true&area_color=ff007f30&hide_border=false&border_color=ff007f&radius=12&title_color=ff007f" width="97%" />
 </div>
+
 <br/>
+
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!--          🏆 ACHIEVEMENT & CERTIFICATION HUB                -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
@@ -407,7 +439,9 @@
   <!-- Profile Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=kannagokul046-dot&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=7" width="97%" />
 </div>
+
 <br/>
+
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!--             🐍 SNAKE CONTRIBUTION ANIMATION                  -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
@@ -419,7 +453,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kannagokul046-dot/kannagokul046-dot/output/github-contribution-grid-snake-dark.svg" width="97%" />
   </picture>
 </div>
+
 <br/>
+
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
 <!--             🌈 RAINBOW CINEMATIC FOOTER                      -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
