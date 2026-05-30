@@ -10,6 +10,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Glow Wave Divider" />
 </div>
 
+<!-- MULTIPLE SIDE-BY-SIDE ANIMATED CYBER ICONS -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120" alt="rocket" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120" alt="folder" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="120" alt="globe" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120" alt="rocket" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -79,6 +90,9 @@
 📧 <a href="mailto:kannagokul046@gmail.com"><b>Email Contact</b></a>
 </p>
 <hr size="1" color="#1e293b" />
+<!-- Spinning cyber sphere -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90" alt="globe" />
+<hr size="1" color="#1e293b" />
 <h4 align="left"><b>🎧 NOW PLAYING</b></h4>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="25" alt="equalizer waves" />
 <p align="center"><i>Focus Mode Active</i></p>
@@ -122,6 +136,10 @@ Detail-oriented and analytical thinker with strong expertise in SQL, Excel, Powe
 <li><b>UPSKILLING:</b> Actively learning Advanced SQL optimization, Python libraries (Pandas/Matplotlib), and Cloud Fundamentals.</li>
 <li><b>GOAL:</b> Deploying robust database pipelines to transition raw data points into executive business indicators.</li>
 </ul>
+<!-- Glowing code screen animated gif -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" height="150" alt="glowing terminal" />
+</div>
 <hr size="1" color="#1e293b" />
 <h3><b>🛠️ TECH STACK COMMAND MATRIX</b></h3>
 <table border="0" cellpadding="10" cellspacing="8" width="100%">
