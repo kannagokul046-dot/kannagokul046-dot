@@ -1,33 +1,33 @@
 <div align="center">
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!--             🔥 THE NEURAL-GLITCH COMMAND HEADER 🔥            -->
+<!--             🌌 THE ULTRA-GLITCH NEON COMMAND HUD 🌌           -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0f1d&height=300&section=header&text=GOKUL%20K&fontSize=110&animation=twinkling&fontAlignY=40&fontColor=39FF14&stroke=39FF14&strokeWidth=2&desc=%E2%9A%A0%EF%B8%8F%20CAUTION%3A%20DATA%20ARCHITECT%20AT%20WORK%20%E2%9A%A0%EF%B8%8F&descAlignY=65&descColor=00FFFF&descSize=25" alt="Glitch Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0f1d&height=320&section=header&text=GOKUL%20K&fontSize=120&animation=textAnimate&fontAlignY=38&fontColor=39FF14&stroke=39FF14&strokeWidth=2&desc=%E2%9C%A6%20BUSINESS%20INTELLIGENCE%20ARCHITECT%20%20%7C%20%20DATA%20STRATEGIST%20%E2%9C%A6&descAlignY=62&descColor=00FFFF&descSize=24" alt="WOW Glitch Header" />
 
-<!-- HIGH-FREQUENCY DATA LINE -->
+<!-- HIGH-SPEED RADIUM DATA STREAM -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 <br/>
 
-<!-- AGGRESSIVE TYPING ENGINE -->
+<!-- MESSY NEON TYPING ENGINE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=1200&pause=300&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%3E+INITIALIZING+DATA+EXTRACTION...;%3E+CONSTRUCTING+SQL+DASHBOARDS...;%3E+BBA+2024+%7C+BA+%2B+DA+%2B+SQL+MASTER;%3E+TARGET%3A+TCS+%E2%80%A2+DELOITTE+%E2%80%A2+ZOHO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1200&pause=400&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%3E+DECRYPTING+BUSINESS+REQUIREMENTS...;%3E+ENGINEERING+SQL+ANALYTIC+MODELS...;%3E+BBA+2024+%E2%80%A2+BA+%2B+DA+MASTER+FRAMEWORK;%3E+SYSTEM_READY%3A+DEPLOYMENT+IN+CHENNAI+%2F+BLR" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SYSTEM INTERFACE BADGES -->
+<!-- SYSTEM STATUS INTERFACE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🛡️_STATUS-READY_TO_DEPLOY-39FF14?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_FOR_DEPLOYMENT-39FF14?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=39FF14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🛰️_ZONE-CHENNAI_/_BANGALORE-00FFFF?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/🎓_CREDENTIAL-BBA_GRAD_2024-00FFFF?style=for-the-badge&labelColor=0d1117&logo=mortarboard&logoColor=00FFFF" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_BBA-2024_GRADUATE-FF007F?style=for-the-badge&labelColor=0d1117&logo=mortarboard&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/📍_ZONE-CHENNAI_/_BANGALORE-9D00FF?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=9D00FF" />
 </p>
 
-<!-- QUICK-ACTION NEURAL LINKS -->
+<!-- TACTICAL NAVIGATION PORTAL -->
 <div align="center">
   <a href="mailto:kannagokul046@gmail.com">
     <img src="https://img.shields.io/badge/SIGNAL_HQ-EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117" />
@@ -36,38 +36,39 @@
     <img src="https://img.shields.io/badge/NEURAL_LINK-LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
   </a>
   <a href="https://gokul-analyst.netlify.app">
-    <img src="https://img.shields.io/badge/DATA_CORE-PORTFOLIO-FF007F?style=for-the-badge&logo=netlify&logoColor=0d1117" />
+    <img src="https://img.shields.io/badge/OS_CORE-PORTFOLIO-FF007F?style=for-the-badge&logo=netlify&logoColor=0d1117" />
   </a>
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" />
 </div>
 
 ---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!--                 🧬 BIOMETRIC DATA DUMP (ABOUT)                -->
+<!--              📟 NEURAL INTELLIGENCE LOG (ABOUT)               -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="35%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" style="border-radius: 20px; border: 4px solid #39FF14; box-shadow: 0 0 25px #39FF14;" />
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" style="border-radius: 20px; border: 4px solid #39FF14; box-shadow: 0 0 30px rgba(57, 255, 20, 0.5);" />
       <br/><br/>
-      <code style="color: #00FFFF; font-size: 1.3em;">[SYSTEM_ARCHITECT_v4.0]</code>
+      <code style="color: #FF007F; font-size: 1.4em; font-weight: bold;">[ ANALYST_v4.2 ]</code>
     </td>
     <td>
-      <h2 style="color: #39FF14;">📡 THE ARCHITECT'S LOG</h2>
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-1ecb8acc6aa5.gif" width="120" />
+      <h2 style="color: #39FF14;">📡 THE SYSTEM LOG</h2>
       <p align="justify">
-        I am <b>Gokul K</b>, a high-octane <b>Business & Data Analyst</b> specializing in the transmutation of messy data into corporate gold. With a 2024 BBA foundation, I bridge the gap between complex <b>SQL Querying</b> and strategic <b>Business Intelligence</b>.
+        I am <b>Gokul K</b>, a dual-core <b>Business & Data Analyst</b>. I bridge the critical gap between high-level business strategy (BBA) and complex technical infrastructure. I don't just process data; I engineer the narratives that drive corporate ROI.
       </p>
       <p align="justify">
-        Certified by <b>FITA Academy</b> and <b>Microsoft</b>, I architect end-to-end data pipelines that optimize manual workflows—slashing 45-day cycles down to 18-day Agile sprints.
+        From drafting <b>BRD/FRD</b> documentation in Agile environments to architecting <b>Complex SQL Pipelines</b> and <b>Power BI HUDs</b>, I ensure every data point serves a strategic mission objective.
       </p>
-      <h4 style="color: #FF007F;">🎯 PRIMARY DEPLOYMENT TARGETS:</h4>
+      <h4 style="color: #00FFFF;">🎯 MISSION TARGETS (COMPANIES):</h4>
       <p>
-        <code>TCS</code> • <code>ZOHO</code> • <code>DELOITTE</code> • <code>INFOSYS</code> • <code>ACCENTURE</code> • <code>COGNIZANT</code>
+        <code>TCS</code> • <code>ZOHO</code> • <code>DELOITTE</code> • <code>EY</code> • <code>ACCENTURE</code> • <code>INFOSYS</code> • <code>COGNIZANT</code>
       </p>
     </td>
   </tr>
@@ -76,30 +77,30 @@
 ---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!--             🚀 CORE ARCHITECTURE (TECH GRID)                  -->
+<!--             🚀 CORE ARCHITECTURE (TECH MATRIX)                -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <h2 style="color: #39FF14;">⚡ RADIUM TECH-MATRIX GRID ⚡</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212248616-29774653-8370-43d9-95a9-4a0050875323.gif" width="500" />
+  <h2 style="color: #39FF14;">⚡ RADIUM ANALYTIC ENGINE ⚡</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212248616-29774653-8370-43d9-95a9-4a0050875323.gif" width="550" />
 </div>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center"><b style="color: #39FF14;">🗄️ DATA ENGINES</b></td>
+    <td align="center"><b style="color: #39FF14;">🗄️ DATA CORE</b></td>
     <td align="center"><b style="color: #00FFFF;">📊 VISUALIZATION HUD</b></td>
     <td align="center"><b style="color: #FF007F;">📑 BUSINESS LOGIC</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14" /><br/>
+      <img src="https://img.shields.io/badge/SQL_Expert-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39FF14" /><br/>
-      <img src="https://img.shields.io/badge/SQL_Window_Functions-0d1117?style=for-the-badge&logo=databricks&logoColor=39FF14" />
+      <img src="https://img.shields.io/badge/Python_EDA-0d1117?style=for-the-badge&logo=python&logoColor=39FF14" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Power_BI_DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=00FFFF" /><br/>
-      <img src="https://img.shields.io/badge/Excel_Dashboards-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FFFF" /><br/>
-      <img src="https://img.shields.io/badge/Tableau_Viz-0d1117?style=for-the-badge&logo=tableau&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/Power_BI_Pro-0d1117?style=for-the-badge&logo=powerbi&logoColor=00FFFF" /><br/>
+      <img src="https://img.shields.io/badge/Adv_Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FFFF" /><br/>
+      <img src="https://img.shields.io/badge/DAX_Modeling-0d1117?style=for-the-badge&logo=databricks&logoColor=00FFFF" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Agile_Scrum-0d1117?style=for-the-badge&logo=jira&logoColor=FF007F" /><br/>
@@ -124,24 +125,24 @@
   <!-- Mission 1 -->
   <tr>
     <td width="40%"><img src="https://user-images.githubusercontent.com/74038190/212248611-ee03bc2a-ef90-4820-b472-8700206fa104.gif" width="100%" /></td>
-    <td style="border-left: 3px solid #39FF14; background: #0d1117;">
+    <td style="border-left: 4px solid #39FF14; background: #0a0f1d;">
       <h3 style="color: #39FF14;">🛡️ MISSION: BANKING FRAUD DEFENSE</h3>
-      <p><b>IMPACT:</b> Analyzed 284k+ transactions. Reduced risk by identifying 30% more fraud patterns using SQL CTEs & Python EDA.</p>
+      <p><b>IMPACT:</b> Analyzed 284k+ real-time transactions. Mitigated revenue leakage by 30% using complex SQL CTEs and Window Functions.</p>
       <img src="https://img.shields.io/badge/STATUS-SUCCESS-39FF14?style=flat-square" />
       <br/><br/>
-      <a href="https://gokul-analyst.netlify.app"><b>[🌐 ACCESS HUD]</b></a> • <a href="https://github.com/kannagokul046-dot"><b>[📁 DATA STASH]</b></a>
+      <a href="https://gokul-analyst.netlify.app"><b>[🌐 ACCESS HUD]</b></a> • <a href="https://github.com/kannagokul046-dot"><b>[📁 CODE STASH]</b></a>
     </td>
   </tr>
   
   <!-- Mission 2 -->
   <tr>
     <td width="40%"><img src="https://user-images.githubusercontent.com/74038190/212248612-6804566c-2794-4d89-9a77-4340d89c72ec.gif" width="100%" /></td>
-    <td style="border-left: 3px solid #00FFFF; background: #0d1117;">
+    <td style="border-left: 4px solid #00FFFF; background: #0a0f1d;">
       <h3 style="color: #00FFFF;">🏎️ MISSION: MERCEDES-BENZ SALES WAREHOUSE</h3>
-      <p><b>IMPACT:</b> Slashed manual reporting by 40% for 6 global markets. Automated sales velocity tracking via DAX measures.</p>
+      <p><b>IMPACT:</b> Engineered a global KPI dashboard for 6 markets. Slashed manual reporting overhead by 40% via automated Power BI ETL.</p>
       <img src="https://img.shields.io/badge/STATUS-SUCCESS-00FFFF?style=flat-square" />
       <br/><br/>
-      <a href="https://gokul-analyst.netlify.app"><b>[🌐 ACCESS HUD]</b></a> • <a href="https://github.com/kannagokul046-dot"><b>[📁 DATA STASH]</b></a>
+      <a href="https://gokul-analyst.netlify.app"><b>[🌐 ACCESS HUD]</b></a> • <a href="https://github.com/kannagokul046-dot"><b>[📁 CODE STASH]</b></a>
     </td>
   </tr>
 </table>
@@ -149,7 +150,7 @@
 ---
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!--             📊 SYSTEM ANALYTICS & TELEMETRY                   -->
+<!--             📊 SYSTEM TELEMETRY & ANALYTICS                   -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -163,7 +164,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="color: #39FF14;">🐍 NEURAL CONTRIBUTION DATA</h3>
+  <h3 style="color: #39FF14;">🐍 NEURAL DATA STREAM</h3>
   <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=39FF14&color_dots=161b22,216e39,30a14e,40c463,9be9a8" width="100%" />
 </div>
 
@@ -176,10 +177,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
   <h2 style="color: #39FF14;">📡 SYSTEM READY. INITIALIZE CONNECTION?</h2>
-  <p>Available for <b>IMMEDIATE JOINING</b> in Chennai, Bangalore, Madurai or Remote.</p>
+  <p>Available for <b>IMMEDIATE JOINING</b> in Chennai, Bangalore, or Remote.</p>
   
   <a href="mailto:kannagokul046@gmail.com">
-    <img src="https://img.shields.io/badge/INITIATE_COMMS-GMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117" />
+    <img src="https://img.shields.io/badge/INITIATE_CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://gokul-analyst.netlify.app">
@@ -188,7 +189,7 @@
   
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=kannagokul046-dot&style=flat-square&color=39FF14&label=SYSTEM_ACCESS_COUNT" />
-  <p><i>Handcrafted with ⚡ and Radium Cyber-Aesthetics by Gokul K</i></p>
+  <p><i>System Optimized by Gokul K | ⚡ Radium Cyber-Aesthetics 2024</i></p>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=150&section=footer" />
 </div>
