@@ -1,134 +1,137 @@
 <div align="center">
+  <!-- ANIMATED HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a0f1d&height=200&section=header&text=GOKUL%20K&fontSize=80&animation=fadeIn&fontAlignY=40&fontColor=39FF14&desc=BUSINESS%20ANALYST%20|%20DATA%20STRATEGIST&descSize=25&descAlignY=65" width="100%" />
 
-<!-- HEADER TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2000&pause=600&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=55&lines=%3E%3E+BUSINESS+ANALYST+%7C+DATA+ANALYST+%7C+SQL+DEVELOPER;%3E%3E+Transforming+Raw+Data+into+Actionable+Insights!;%3E%3E+SQL+Mastery+%E2%80%A2+Power+BI+%E2%80%A2+Advanced+Excel;%3E%3E+Available+IMMEDIATELY+for+Opportunities" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0a0f1d&logo=checkmarx&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/🚀_ROLE-BA_%2F_DA_FRESHER-FF007F?style=for-the-badge&labelColor=0a0f1d&logo=databricks&logoColor=FF007F" />
-  <img src="https://img.shields.io/badge/📍_LOCATION-CHENNAI_/_BANGALORE-9900ff?style=for-the-badge&labelColor=0a0f1d&logo=googlemaps&logoColor=9900ff" />
-  <img src="https://img.shields.io/badge/🎓_BBA-2024_GRADUATE-00FFFF?style=for-the-badge&labelColor=0a0f1d&logo=mortarboard&logoColor=00FFFF" />
-</p>
-
-<!-- QUICK ACTION PORTAL -->
-<div align="center">
-  <h3>⚡ QUICK ACTION PORTAL ⚡</h3>
-  <a href="mailto:kannagokul046@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email_Direct-kannagokul046@gmail.com-39FF14?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=39FF14" />
+  <!-- TYPING EFFECT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=600&color=FF007F&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=%3E%3E+TRANSFORMING+DATA+INTO+DECISIONS;%3E%3E+SQL+EXPERT+%E2%80%A2+POWER+BI+ARCHITECT;%3E%3E+READY+TO+DEPLOY+IN+CHENNAI+%2F+BLR+%2F+HYD" alt="Typing SVG" />
   </a>
-  <a href="https://gokul-analyst.netlify.app">
-    <img src="https://img.shields.io/badge/📂_Portfolio-Interactive_Resume-FF007F?style=flat-square&labelColor=0d1117&logo=netlify&logoColor=FF007F" />
-  </a>
-  <a href="https://linkedin.com/in/gokul-analyst">
-    <img src="https://img.shields.io/badge/🤝_LinkedIn-gokul--analyst-00FFFF?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=00FFFF" />
-  </a>
+
+  <br/>
+
+  <!-- TACTICAL STATUS BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/⚡_STATUS-Hiring_Open-39FF14?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/🎓_CLASS-2024_GRAD-00FFFF?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/📍_ZONE-SOUTH_INDIA-9D00FF?style=for-the-badge&labelColor=0d1117" />
+  </p>
+
+  <!-- QUICK CONNECT PORTAL -->
+  <table border="0">
+    <tr>
+      <td><a href="mailto:kannagokul046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+      <td><a href="https://linkedin.com/in/gokul-analyst"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+      <td><a href="https://gokul-analyst.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=netlify&logoColor=white" /></a></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px" />
-</div>
 
-## 🧬 About Me
-> A detail-oriented **Business Analyst & Data Enthusiast** with a BBA degree (2024). I bridge the gap between complex data and strategic business decisions. I specialize in translating stakeholder requirements into technical specifications and interactive visualizations.
-
-- 🔭 **Currently working on:** Advanced Data Engineering Pipelines.
-- ⚡ **Superpowers:** SQL CTEs, DAX Measures, and Agile Process Mapping.
-- 🎯 **Goal:** To deliver 10x ROI through data-driven process optimization.
+## 🧬 BIOGRAPHICAL OVERVIEW
+> **2024 BBA Graduate** with a technical core. I specialize in the **"Data-to-Value" pipeline**: Extracting raw data with SQL, processing it with Python, and delivering executive-ready dashboards in Power BI. I speak both **Business (BRD/FRD)** and **Tech (CTEs/DAX)**.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ THE TECHNOLOGY STACK
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="200"><b>DATABASES</b></td>
+      <td align="center" width="200"><b>ANALYTICS</b></td>
+      <td align="center" width="200"><b>BUSINESS TOOLS</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/SQL_Mastery-39FF14?style=flat-square&logo=mysql&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=flat-square&logo=postgresql&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Data_Cleaning-FF007F?style=flat-square&logo=python&logoColor=black" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Power_BI_Pro-39FF14?style=flat-square&logo=powerbi&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Adv_Excel-00FFFF?style=flat-square&logo=microsoftexcel&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/Data_Viz-FF007F?style=flat-square&logo=tableau&logoColor=black" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Agile_SDLC-39FF14?style=flat-square&logo=jira&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/BRD_%2F_FRD-00FFFF?style=flat-square&logo=confluence&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/UAT_Testing-FF007F?style=flat-square&logo=checkmarx&logoColor=black" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 ACTIVE MISSIONS (PORTFOLIO)
 
 <table width="100%">
+  <!-- Banking Fraud -->
   <tr>
-    <td width="50%" align="center"><b>Languages & Databases</b></td>
-    <td width="50%" align="center"><b>Visualization & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <b>Learning Progress:</b><br/>
-  <code>Data Engineering (Airflow)</code> ████░░░░░░░░░░░░░░░░ 20%
-</div>
-
----
-
-## 📂 Featured Mission Dossiers (Projects)
-
-<table border="0">
-  <!-- Project 1 -->
-  <tr>
-    <td><img src="https://img.shields.io/badge/PROJECT-01-39FF14?style=for-the-badge" /></td>
+    <td width="30%"><img src="https://user-images.githubusercontent.com/74038190/212248611-ee03bc2a-ef90-4820-b472-8700206fa104.gif" width="100%" /></td>
     <td>
-      <b>Banking Fraud Detection Pipeline</b> | <img src="https://img.shields.io/badge/STATUS-DEPLOYED-39FF14?style=flat-square" /><br/>
-      <i>Python • SQL • Power BI</i><br/>
-      Analyzed 284k+ transactions to identify fraudulent patterns. Reduced false negatives by 30% using optimized SQL logic.
-      <br/>
-      <a href="https://gokul-analyst.netlify.app"><b>[🌐 Live]</b></a> • <a href="https://github.com/kannagokul046-dot/banking-fraud-pipeline"><b>[📁 Code]</b></a>
-    </td>
-  </tr>
-  
-  <!-- Project 2 -->
-  <tr>
-    <td><img src="https://img.shields.io/badge/PROJECT-02-FF007F?style=for-the-badge" /></td>
-    <td>
-      <b>Smart Recruitment Architecture</b> | <img src="https://img.shields.io/badge/STATUS-DOCUMENTED-FF007F?style=flat-square" /><br/>
-      <i>BRD • FRD • Agile • UAT</i><br/>
-      Engineered a full SDLC workflow for HR automation. Optimized time-to-hire from 45 days to 18 days via process mapping.
-      <br/>
-      <a href="https://gokul-analyst.netlify.app"><b>[🌐 Live]</b></a> • <a href="https://github.com/kannagokul046-dot/smart-recruitment-architecture"><b>[📁 Code]</b></a>
+      <h3>🛡️ Banking Fraud Detection Pipeline</h3>
+      <img src="https://img.shields.io/badge/Impact-30%25_Risk_Reduction-39FF14?style=flat-square" />
+      <p>Real-time analysis of 284k+ transactions. Built a SQL-driven detection engine and Power BI dashboard for instant fraud alerts.</p>
+      <a href="https://gokul-analyst.netlify.app"><b>[LIVE DEMO]</b></a> | <a href="https://github.com/kannagokul046-dot"><b>[SOURCE CODE]</b></a>
     </td>
   </tr>
 
-  <!-- Project 3 -->
+  <!-- Mercedes-Benz -->
   <tr>
-    <td><img src="https://img.shields.io/badge/PROJECT-03-00FFFF?style=for-the-badge" /></td>
+    <td width="30%"><img src="https://user-images.githubusercontent.com/74038190/212248612-6804566c-2794-4d89-9a77-4340d89c72ec.gif" width="100%" /></td>
     <td>
-      <b>Mercedes-Benz Sales Intelligence</b> | <img src="https://img.shields.io/badge/STATUS-LIVE-00FFFF?style=flat-square" /><br/>
-      <i>Power BI • DAX • ETL</i><br/>
-      Developed global executive dashboards covering 12+ KPIs, reducing manual reporting time by 40%.
-      <br/>
-      <a href="https://gokul-analyst.netlify.app"><b>[🌐 Live]</b></a> • <a href="https://github.com/kannagokul046-dot/mercedes-benz-sales-warehouse"><b>[📁 Code]</b></a>
+      <h3>🏎️ Mercedes-Benz Sales Intelligence</h3>
+      <img src="https://img.shields.io/badge/Impact-40%25_Efficiency_Gain-00FFFF?style=flat-square" />
+      <p>Consolidated 6 global regions into 1 automated KPI dashboard. Mastered DAX Time Intelligence for YOY growth tracking.</p>
+      <a href="https://gokul-analyst.netlify.app"><b>[LIVE DEMO]</b></a> | <a href="https://github.com/kannagokul046-dot"><b>[SOURCE CODE]</b></a>
+    </td>
+  </tr>
+
+  <!-- Recruitment -->
+  <tr>
+    <td width="30%"><img src="https://user-images.githubusercontent.com/74038190/212248615-3733075c-54a4-47f6-8c47-3806a77d33b5.gif" width="100%" /></td>
+    <td>
+      <h3>📑 Smart Recruitment Architecture</h3>
+      <img src="https://img.shields.io/badge/Focus-Agile_&_Process-FF007F?style=flat-square" />
+      <p>Full lifecycle documentation (BRD, FRD, UML) for a digital hiring platform. Reduced projected cycle time by 60%.</p>
+      <a href="https://gokul-analyst.netlify.app"><b>[LIVE DEMO]</b></a> | <a href="https://github.com/kannagokul046-dot"><b>[SOURCE CODE]</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Git Insights & Performance
+## 📊 SYSTEM ANALYTICS & CONTRIBUTIONS
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kannagokul046-dot&theme=radical&no-frame=false&margin-w=15&column=4" width="90%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kannagokul046-dot&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f1d" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannagokul046-dot&layout=compact&theme=radical&hide_border=true&bg_color=0a0f1d" width="40%" />
+  <!-- CONTRIBUTION SNAKE -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kannagokul046-dot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannagokul046-dot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF007F&text_color=ffffff" width="42%" />
+  
+  <br/>
+  
+  <!-- THE SNAKE ANIMATION -->
+  <h3>🐍 Data Contribution Journey</h3>
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=39FF14&color_dots=161b22,216e39,30a14e,40c463,9be9a8" width="90%" />
 </div>
 
 ---
 
+## 📞 TACTICAL CHANNELS (CONTACT ME)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
-  <p><i>Designed with ⚡ Radium Cyber Aesthetics by Gokul K</i></p>
-  
-  <a href="https://gokul-analyst.netlify.app">
-    <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-DOWNLOAD_NOW-39FF14?style=for-the-badge&logo=adobeacrobatreader&logoColor=39FF14&labelColor=0d1117" />
+  <p>Available for <b>Immediate Join</b> for Business/Data Analyst roles.</p>
+  <a href="mailto:kannagokul046@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-kannagokul046@gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117" />
   </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gokul-analyst">
+    <img src="https://img.shields.io/badge/Connect_LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
+  </a>
+  
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" />
+  <p><i>System Optimized & Maintained by Gokul K</i></p>
+  <img src="https://komarev.com/ghpvc/?username=kannagokul046-dot&style=flat-square&color=39FF14&label=SYSTEM_ACCESS_COUNT" />
 </div>
